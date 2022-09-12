@@ -1,0 +1,23 @@
+body 
+{
+    background-color: aquamarine;
+}
+
+
+
+.bannerText {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+.mainImg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.clownStats {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+}
