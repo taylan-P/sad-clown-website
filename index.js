@@ -1,5 +1,5 @@
 var counter = 0;
-const picture = document.getElementById('comicImg');
+
 
 function imgTest()
 {
@@ -24,4 +24,3 @@ function imgTest()
     }
 
 }
-picture.addEventListener('mouseenter', imgTest);
